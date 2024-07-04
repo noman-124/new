@@ -1,0 +1,15 @@
+{
+    "signUp": "Sign up",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email Address",
+    "phoneNumber": "Phone Number",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "receiveUpdates": "I want to receive inspiration, marketing promotions and updates via email.",
+    "alreadyHaveAccount": "Already have an account? Sign in",
+    "signIn":"Sign In",
+    "rememberMe":"Remember Me",
+    "forgotPassword":"Forgot Password?",
+    "dontHaveAccount":"Don't have an account? Sign Up"
+  }

@@ -1,0 +1,15 @@
+{
+    "signUp": "اشتراك",
+    "firstName": "الاسم الأول",
+    "lastName": "الكنية",
+    "email": "عنوان البريد الإلكتروني",
+    "phoneNumber": "رقم الهاتف",
+    "password": "كلمه السر",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "receiveUpdates": "أريد تلقي الإلهام والترويج والتحديثات عبر البريد الإلكتروني.",
+    "alreadyHaveAccount": "هل لديك حساب؟ تسجيل الدخول",
+    "signIn":"تسجيل الدخول",
+    "rememberMe":"تذكرني",
+    "forgotPassword":"هل نسيت كلمة المرور؟",
+    "dontHaveAccount":"ليس لديك حساب؟ سجل الآن"
+  }

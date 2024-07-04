@@ -1,0 +1,49 @@
+.card1{
+    background-color:azure !important;
+    max-width: 25%;
+}
+.title {
+    font-size:80% !important;
+    font-weight: bold;
+    margin-right: 80% !important;
+}
+.subheader{
+    font-size:70% !important;
+    margin-right: 18% !important;
+}
+.grid{
+    vertical-align: middle;
+}
+.vertical-divider {
+    height: 100%;
+    align-self: stretch;
+    background-color: black; 
+    width: 1px;            
+  }
+  .typo{
+    font-size: small !important;
+    margin-right: 25% !important;
+  }
+  .typo1{
+    font-size: small !important;
+    margin-right: 82% !important;
+  }
+  /* .petrol-icon {
+    margin-right: 10%;
+    vertical-align:middle; 
+  }
+  .gear-icon {
+    margin-right: 9%;
+    vertical-align: middle; 
+  }
+  .speed-icon{
+    margin-right: 5%;
+    vertical-align: middle; 
+  } */
+  .gri{
+    display: flex !important;
+    margin-left: 3%;
+  }
+  .typo4{
+    margin-right: 75% !important;
+  }

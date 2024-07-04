@@ -1,0 +1,23 @@
+.box1{
+    margin-top: 8%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 4%;
+}
+.avatar {
+    margin:1% ;
+}
+.box2 {
+    margin-top: 3%;
+}
+.Button{
+    margin-top: 3% !important;
+    margin-bottom: 2% !important;
+}
+.button{
+    margin-top:5%;
+}
+.button2{
+    margin-right:5px !important;
+}
