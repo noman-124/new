@@ -59,7 +59,7 @@ export default function SignUp() {
             <LockOutlinedIcon />
           </Avatar>
           <Typography component="h1" variant="h5">
-          {t('signUp')}
+          {t('signup')}Signup
           </Typography>
           <Box component="form" noValidate onSubmit={handleSubmit} className='box2'>
             <Grid container spacing={2}>
@@ -120,7 +120,7 @@ export default function SignUp() {
                   required
                   fullWidth
                   name="Confirm Password"
-                  label={t('confirmPassword')}
+                  label={t('confirm password')}
                   type="password"
                   id="Confirm Password"
                   autoComplete="Confirm Password"
@@ -138,12 +138,12 @@ export default function SignUp() {
               variant="contained"
              className='Button'
             >
-              {t('signUp')}
+              {t('signup')}
             </Button>
             <Grid container justifyContent="flex-end">
               <Grid item>
                 <Link href="#" variant="body2">
-                {t('alreadyHaveAccount')}
+                {t('already have account')}
                 </Link>
               </Grid>
             </Grid>
